@@ -1,0 +1,11 @@
+{
+  "name": "Night edition",
+  "short_name": "Night edition",
+  "description": "A quiet, dark reader for The Guardian.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0E1320",
+  "theme_color": "#0E1320",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
